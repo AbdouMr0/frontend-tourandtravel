@@ -47,9 +47,5 @@
     "eslint-plugin-react": "^7.34.3",
     "globals": "^15.8.0",
     "npm-force-resolutions": "^0.0.10"
-  },
-  "resolutions": {
-    "ajv": "6.12.6",
-    "ajv-keywords": "3.5.2"
   }
 }
