@@ -9,16 +9,16 @@ const Footer = () => {
             </div>
             <p>Choose your favorite destination.</p>
             <div>
-                <a href=''>
+                <a href='/'>
                 <i className='fa-brands fa-facebook-square'></i>
                 </a>
-                <a href=''>
+                <a href='/'>
                 <i className='fa-brands fa-instagram-square'></i>
                 </a>
-                <a href=''>
+                <a href='/'>
                 <i className='fa-brands fa-behance-square'></i>
                 </a>
-                <a href=''>
+                <a href='/'>
                 <i class="fa-brands fa-square-x-twitter"></i>
                 </a>
                 
